@@ -1,3 +1,1 @@
 # hotel_website
-
-#test
